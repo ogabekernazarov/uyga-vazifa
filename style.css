@@ -1,0 +1,55 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.second-card{
+width: 800px;
+height: 980px;
+background-color:darkgray;
+margin: auto;
+margin-top: 10px;
+border-radius: 15px;
+}
+.photo{
+width: 800px;
+height: 500px;
+margin: auto;
+
+}
+.btn{
+    padding: 15px 80px ;
+    
+    font-weight: 600;
+    border-radius: 12px;
+    
+    margin: auto;
+    margin: 40px;
+    border: none;
+
+}
+.h1{
+text-align: center;
+
+}
+.text{
+text-align: center;
+margin-top: 20px;
+
+}
+.read{
+padding: 18px 76px;
+background-color:rgb(100, 216, 237);
+color: blue;
+font-weight: 600;
+border-radius: 12px;
+display: block;
+margin: 40px;
+border: none;
+margin: auto;
+margin-top: 50px;
+
+
+
+
+}
